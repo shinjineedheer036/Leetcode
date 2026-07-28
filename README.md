@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/shinjineedheer036/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
@@ -24,4 +25,12 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
