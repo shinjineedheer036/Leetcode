@@ -8,6 +8,7 @@
 | [0073-set-matrix-zeroes](https://github.com/shinjineedheer036/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
+| [0485-max-consecutive-ones](https://github.com/shinjineedheer036/Leetcode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
