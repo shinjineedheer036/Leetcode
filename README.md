@@ -34,6 +34,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
+| [0876-middle-of-the-linked-list](https://github.com/shinjineedheer036/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -58,4 +59,8 @@
 |  |
 | ------- |
 | [0938-range-sum-of-bst](https://github.com/shinjineedheer036/Leetcode/tree/master/0938-range-sum-of-bst) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/shinjineedheer036/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
