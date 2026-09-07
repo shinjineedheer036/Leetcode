@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjineedheer036/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shinjineedheer036/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
 ## Tree
 |  |
 | ------- |
@@ -75,4 +77,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/shinjineedheer036/Leetcode/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
