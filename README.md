@@ -6,6 +6,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/shinjineedheer036/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
+| [0064-minimum-path-sum](https://github.com/shinjineedheer036/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shinjineedheer036/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shinjineedheer036/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
@@ -20,12 +21,14 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/shinjineedheer036/Leetcode/tree/master/0048-rotate-image) |
+| [0064-minimum-path-sum](https://github.com/shinjineedheer036/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/shinjineedheer036/Leetcode/tree/master/0073-set-matrix-zeroes) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/shinjineedheer036/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjineedheer036/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
