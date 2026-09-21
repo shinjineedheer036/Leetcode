@@ -31,6 +31,7 @@
 | [0064-minimum-path-sum](https://github.com/shinjineedheer036/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0118-pascals-triangle](https://github.com/shinjineedheer036/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shinjineedheer036/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1143-longest-common-subsequence](https://github.com/shinjineedheer036/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -84,4 +85,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shinjineedheer036/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/shinjineedheer036/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
