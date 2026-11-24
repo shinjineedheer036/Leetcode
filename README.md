@@ -52,6 +52,7 @@
 | [0007-reverse-integer](https://github.com/shinjineedheer036/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shinjineedheer036/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/shinjineedheer036/Leetcode/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shinjineedheer036/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
 ## Tree
 |  |
@@ -82,6 +83,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shinjineedheer036/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shinjineedheer036/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Combinatorics
 |  |
