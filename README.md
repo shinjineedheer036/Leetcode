@@ -26,6 +26,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shinjineedheer036/Leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/shinjineedheer036/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/shinjineedheer036/Leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/shinjineedheer036/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -92,9 +93,18 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shinjineedheer036/Leetcode/tree/master/0022-generate-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/shinjineedheer036/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/shinjineedheer036/Leetcode/tree/master/1143-longest-common-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shinjineedheer036/Leetcode/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/shinjineedheer036/Leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
